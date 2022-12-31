@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning JAVA AND ANDROID
 - 💕 I'm Currently Learning BootStrap and Go-Lang
 
+<p align = "center" Leters Stats of Gangisetty Raj Charan</p>
 
+![LeetCode Stats](https://leetcode.card.workers.dev/rajcharan112002?theme=auto&font=&extension=null)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajcharanthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="rajcharanthecoder" /> </p>
 
