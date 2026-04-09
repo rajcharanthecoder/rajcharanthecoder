@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gangisetty Raj Charan</h1>
-<h3 align="center">A passionate frontend developer from India I am a student at SRM IST in CHENNAI, INDIA. I am a computer whiz. I stay up to date on current technological breakthroughs.</h3>
+<h3 align="center">A passionate Devops and Gitops engineer from India I am a workholic at AU SMALL Finance Bank. I am a computer whiz. I stay up to date on current technological breakthroughs.</h3>
 
 - 👋 Hi, I’m @rajcharanthecoder
 - 👀 I’m interested in AIML,WEB DEVELOPEMENT ADNROID DEVELOPMENT AND MANY MORE TECHNOLOGIES
