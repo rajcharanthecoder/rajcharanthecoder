@@ -1,46 +1,132 @@
-<h1 align="center">Hi 👋, I'm Gangisetty Raj Charan</h1>
-<h3 align="center">A passionate Devops and Gitops engineer from India I am a workholic at AU SMALL Finance Bank. I am a computer whiz. I stay up to date on current technological breakthroughs.</h3>
+👋 Raj
+> **Linux Administrator | AWS | Kubernetes | Terraform | DevOps**
+<table>
+<tr>
+<td width="42%">
+```text
+                                          .. .............                                          
+                                       .  ..''`",'''........  ..                                    
+                                      .',<(zQmZOCLLXzuj1[_l'. ....                                  
+                                   .'_zQqbkaaphbddmOQZwZmmwmU1;...                                  
+                                 .'Ifbpdh*WWWMMMW*bakhqZ0qdpqbpz<.                                  
+                               .'+cm0kdkoaa*#MMW#o*ooadpdpqo#akqqj^                                 
+                            ..>uOhoahqo8apkbpmOqhaqZCzzx1[??rdWoodz,.                               
+                            ^jdbmMW#kdQufff||ttjxnrt(}-~i!!!>+v&W#qQ].                              
+                          .:Zppqk#pY([???]}{{1(|(){]?-_<>iiiii>}k&hqpj`.                            
+                          .nkqWW#z{]]?-___?]]][}}1[?+~<i!!!!ii!!-wWkdwz"                            
+                          "Lb%8bf[?__+++__-??-___-_~<<!l;;IIIIII!+mha*w+                            
+                         .|hM8qf-__{)(|f|(){{}}]?]??___~>ilI::;IIl+Oh#o?.     .     .     .     .   
+                        .!p#%kv~i(UZdkaoaadZCcrjf|((|ruuuvvnnf]i;:izbkU>'         .           .     
+                        'j&&Mw+!(XCCYzULmpdqZQUujfjxY0ZdhhkqmOCu]I;nmZn;.     .           .         
+                        `LW&aL~{nUQYnuU0ZwwqZCut)}}tYZwpwLzunnnzr~;{wpXl.               .      .    
+                        .[a#oU_|jcCmJraM*zmwCXj]<ll}vYmqOdqOu1+1t+:[mqv;.     .     .               
+                        .'|bbQ<[]?})fnJ0LUzx)]-~iI:l{nU0UqdQ1|(][>,{Opr'    .                       
+                        .^YJXcI<-__-?}}{1[-~<+<!!;,:!+?|nXUv|~Ii<i:rCql.          .     .     .     
+                        .^JXu{!>+<i<~++__--+~~<>>I;;l!lI!iii>!!!ii;cr[..    .         .           . 
+                        ..(fc{~?}]-__-?[[{{[}fuj({-?<;<]_>!l;:;IIIIx01..        .           .       
+                        ..+ju][t|))(tnvvf{{nw*MaOQp*p|+[||{[-<!I:;>fri..    .         .         .   
+                         .<{x(jnrjxQhad0JC0da*#MoWWopX(]1nXzr1]~ll-u+...  .               .         
+                        ..>[xvccvcUh#adQXcvxjxunvx|ttjuUQOwbkX1?~<})l....             .         .   
+                        ..>1nJYQJUcUmdmZZOQJzczXXYvunuzYCwdqkQ|[??j],...                      .     
+                           '_JQmZQCXzQzxjrrrxvzvuxf(?_]|rXqw0ur(})t+,...              .     .       
+                            :zmpdqO0Odwvt(fxJq*##odOc)}{rJ0UYcuftf]'.  .                  .         
+                            .<Obdhdkbaap0zvxU0wqpqOUj(jv0mmQ0CJcj|I                   .             
+                             `fpkaoaaakkkpwZmOLQOmCYYLZpdpmwwOCYu_'.                                
+                            . ^zkh*M#ooahhhahbpqqqqZZkbpwbdpZQCv-'                    .     .     . 
+                            ...+ObaM##WW#MWM**oaaoaoaMhkpbmZOmu>.                         .         
+                            .. lcOba#MM8%8W&8%8&88WMW*o*akwpwY].                      .           . 
+                             .'~)u0d##WM88W&&888%%8W#*ohokpLz(i....                             .   
+                            .`,_{|nz0pa*MW&&&8&W&&8#oaohdOQx{+_'..                  .     .        .
+                           .{c;I_1|jxXQwdhaoMWM&WMM#aapOLu({?!``n:...   .     .         .       .   
+                         . (a~;;Il+{xxvYLZwddkaaakdZQJYuj(-l`'''uL,..             .           .     
+                        .lfkdI;;;IIli[tvYCQ0ZmmwO0JYznj}<,^^`'''npC),         .         .           
+                    ..'+zphadl;;;;IIlli~1uUYYUUUYXXv(+l;;,^^`''`XdZO0fl......               .     . 
+                  'l?fZkhao*k>I;I;;Illl!!i_)xzYXu(+lI;::,,"^^''"ZbwmmmmY1l'.          .         .   
+          ...'![xLbahaaaaao**?II;;;IIIIII~jLZUXUu_I;;::,"""^^``<abpqqwqqqppQx]l'.....       .       
+        ^i}nQko*#*aaaaaaoo*MWt!I;I;IIIl|Zaao**ohbkC?,,,,"""^^`^t#abppqqpddbk**odLx{<,.              
+..^>[jUwho***MMM#oooooo**#MMMziIII;;I}q$Wohaoabqqd*$O<,"""^^^`:U#akkddddbbkbk*#**aahkwJr}<,... .  . 
+Ymho***###MMMMMMM##**####MMMM0<I;;;~cwwp#W*o*hpwk*%#wpc>"^^`^^im*ohbkhhhbkha********oaaahahpLv(+:.  
+#########MMMMMMW&%%&MMMMMM#MMq]I;ijJcrfvU0##odwb*wut(|nUr>^`^"+d*ohkhhaaho&W#*ooo****oao*oooaahhkwUn
+#MM#####MMMMMMMMMMWWMMMMM#MMMZti?rt){[][{|Uoahbku{}{{1|rzUji":|o*ahkhhaaao*oaaoooo***ooo*o*ooaaaahhh
+MMMMMM#MMMMM#MMMMMWWWWMM###M#01[_+~~+-_]]?k#ahpqu>>ii>><<<_[->t#*akhhhhooaooaaahh*#*********ooaaoaaa
+MMMMMMMMMMM&WMMMMMMMWMWMMMMM#O_+<ii>>><++uoookqwd|!lll!!llIll!(M*akhhaho*ooooooao####******oooaooooo
+MMMMMMMMWWMW&MMMMMMWMMMWMMMM*b~>>iiiiii<(aoooadwqqtIlIIlllII!~YW*ahhhaaoo*****aa####*******oooo*ooo*
+M#MMMMMMWMMM&WMMMWMMMMMMMMM#*a}>!lll!i>[boaaoabmmmw1l!iil;I!>-OMoahhaaooo**o#*ooM*********ooo**#****
+MMMMMMMMMMMMW8MMMMMMMWWWWWMM#aj_>!l!ii~ZoaaaoakqqwwL<<!;;IIli-hM*oaaaaoo***##oaMM######**o****###***
+WMMWWMMMMM#MM8WW#MMMMWWWWMM##ou+<>i!!>thooao*oabpqqq-I;;;l!!<)M#oaaaao*****#*o*MM#*####*oo***####***
+```
+</td>
+<td width="58%">
+```text
+raj@github
+──────────────────────────────────────────────────────────────
 
-- 👋 Hi, I’m @rajcharanthecoder
-- 👀 I’m interested in AIML,WEB DEVELOPEMENT ADNROID DEVELOPMENT AND MANY MORE TECHNOLOGIES
-- 🌱 I’m currently learning JAVA AND ANDROID
-- 💕 I'm Currently Learning BootStrap and Go-Lang
+OS:                  Ubuntu • RHEL • Windows 11
+Role:                Linux Administrator
+Company:             AU Small Finance Bank
 
-<p align = "center" Leters Stats of Gangisetty Raj Charan</p>
+Editor:              VS Code • Vim
+Terminal:            Bash
+Cloud:               AWS
+Containers:          Docker • Kubernetes
+IaC:                 Terraform
+Automation:          Ansible
+Monitoring:          Prometheus • Grafana
 
-![LeetCode Stats](https://leetcode.card.workers.dev/rajcharan112002?theme=auto&font=&extension=null)
+Certifications:
+✓ AWS Solutions Architect Associate
+➜ RHCSA
+➜ CKA
+➜ AWS SAP-C02
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajcharanthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="rajcharanthecoder" /> </p>
+Interests:
+Linux • Kubernetes • AWS • Automation • SRE
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajcharanthecoder" alt="rajcharanthecoder" /></a> </p>
+──────────────────────────────────────────────────────────────
 
+Contact
 
-- 🔭 I’m currently working on **Boult Clone website**
+Email:      your@email.com
+LinkedIn:   https://linkedin.com/in/yourprofile
+GitHub:     https://github.com/YOUR_USERNAME
 
-- 🌱 I’m currently learning **BootStrap,Go-Lang,Tailwind Css,React,Angular js,ajax,Jquery**
+──────────────────────────────────────────────────────────────
 
-- 💬 Ask me about **Html,BootStrap,Vanilla Css and Vanilla Js**
+GitHub Stats
 
-- 📫 How to reach me **rajcharan112002@gmail.com**
+Repos:
+Stars:
+Followers:
+Contributions:
 
-- ⚡ Fun fact **I Think I am too busy to Learn and Grab skills**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@rajgangisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rajgangisetty" height="30" width="40" /></a>
-<a href="https://instagram.com/raj_charan_chillhouse.hero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj_charan_chillhouse.hero" height="30" width="40" /></a>
+"Automate. Learn. Repeat."
+```
+</td>
+</tr>
+</table>
+---
+🛠 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,ansible,bash,python,git,github,vscode,prometheus,grafana" />
 </p>
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajcharanthecoder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajcharanthecoder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajcharanthecoder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-<!---
-rajcharanthecoder/rajcharanthecoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+---
+📈 Activity Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
+---
+🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+---
+🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=4"/>
+</p>
